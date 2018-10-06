@@ -1,0 +1,2291 @@
+INSTRUCTIONS
+
+Before the test:
+1. DO NOT REMOVE THE SEALS OF THE I>LASTIC ENVELOI>E OF THIS BOOKLET UNTIL THE SIGNAL TO
+START IS GIVEN.
+2.
+
+Keep only the Admit Card, pencil, eraser and sharpener with you. DO NOT KEEl> with you books,
+rulers, slide rulers, drawing instruments, calculators (including watch calculators), pagers, cellular
+phones, stop watches or any other device or loose paper. These should be left at a ｰｬ｡｣･
+
+ｾ ｩｮ､＠
+
+icated by
+
+the i nvigil at or.
+3.
+
+Use only HB pencil to fill in the Answer sheet.
+
+4.
+
+Enter in your Answer Sheet: (a) in Box 3, t Test Form Number that appears at the b(
+ttS his p ge,
+(b) in Box 4, the Test Booklet Serial Numberthat appears atthe top of this page.
+
+s.
+6.
+
+Ensure that your personal data have been entered correctly on Side- II of th6
+sh
+.
+Ensure that you have entered your 7-digit Test Registration Number in Box 2 fthe nswer sheet
+
+0
+
+correctly.
+
+Atthe start of the Test:
+1. As soon as the signal to start is given, open the Test Booklet. r
+2. This Test Booklet contains 36 pages, including the ｢ｬ｡ｮ ｾ
+Ｂ ･ｳ ｾ
+Booklet, verify that all the pages are printed properly
+Test Booklet, immediately inform the invigi Iat ｯｲＮ
+
+ｾ＠
+
+d
+
+Wi1
+
++
+
+ｾ＠
+
+｡ｴ･ｬｹ＠
+after opening the Test
+· order. If there is a pnoblem with your
+
+e rovid ed with a replacement.
+
+ｾ＠
+
+How to answer:
+1.
+
+2.
+
+3.
+4.
+n s of the 1nv1g1l at or. Can d1d ates found v1olatmg the 1nstruwon sWill be
+
+2.
+
+You may retain this Test Booklet with you.
+
+Candidares giving assisrance or seeking/receiving from any source in answering quesrions or copying in any
+manner in rhe resr will forfeir rh eir chances of being considered for admission. Such candidares will forfeir rhe
+righ r ro rhe scorecard. The resring aurhority reserves rh e righr ro exdude any quesrion or quesrions from rhis
+Tesr Bookler for final examinarion.
+
+Test Form Number:
+
+SECTION I
+1. A shop stores x kg of rice. The first customer buys half this amount pi us half a kg of rice. The second
+customer buys half the remaining amount plus half a kg of rice. Then the third customer also buys ha If the
+remaining amount plus half a kg of rice. Thereafter, no rice is I eft in the shop. Which of the following best
+describes the value of x?
+
+(1)
+
+ｈｸｾＶ＠
+
+ＨＲＩＵｾｸＸ＠
+
+ＨＳＩＹｾｸＱＲ＠
+
+ＨＴＩＱｾｸ＠
+
+(5)
+
+ＱｈｸｾＸ＠
+
+Directions for Questions 2 and 3:
+Let J(x) = a)+ bx + c, where a, b and c are certain constants and a " 0. It is known
+that 3 is a root of f(x) = 0.
+2. What is the other root of J(x) = 0?
+
+(1) -7
+
+(2) -4
+
+(3)
+
+(4) 6
+
+2
+
+ｾ＠
+
+3. What 1sthe value of a+ b+ c?
+
+(1) 9
+
+(2) 14
+
+(3)
+
+13
+
+IS
+
+(1) 78
+
+ｾﾷ＠
+
+(2) 19
+
+Ｐｾ＠
+
+(3) 20
+
+Vbe
+
+j"'
+
+(4) 37
+
+f'l:J-
+
+77
+
+determ1ned
+
+(5) 22
+
+The figure below shows the pi an of a town. The streets are at right angles to each other. A rectangular
+park (P) is situated inside the town with a diagonal road running through it. There is also a prohibited
+region (D) in the town.
+
+('
+
+'· NoO•m
+
+ＢＧｾ＠ ｨｾ＠
+
+b'"''' from
+
+ｨｾ＠
+
+how• • ' "
+
+ｨｾ＠
+
+'"'" <
+
+ｾ Ｍ
+
+number of poss1 bl e shortest paths that she can choose 1s
+
+(1) 60
+
+(2) 75
+
+(3)
+
+45
+
+ｳｨ ｾ
+
+(4) 90
+
+6. Neelam n des her b1cycle from her house at
+number of poss1 bl e shortest paths that
+
+(I)Um
+
+Is die value of -
+
+(q 0
+
+ｾ＠
+
+ｾ Ｂ＠
+
+I,
+
+ｾ＠
+
+>, .... "
+
+ｬ＠ ub
+
+Ｈ＾ ｾＨＩＮ
+
+(>) ""
+
+ｾ＠ ｾＢＧ＠
+
+"'
+
+Ｉ＠
+
+i
+
+noo It•
+
+U'
+
+ｾ＠
+
+Ｍｾ ｾ
+
+BCJ
+Ｌ "XJ
+ｌＺ ｾ ＺＬ Ｎｏ＠
+
+"""
+
+(<! 1
+
+blookbo.rn Tho
+
+｡ｴ＠
+
+c;
+
+v1a B ta kmg the shortest path. Then the
+
+ｦｯｬｩｾＢＧ＠
+
+0) ' "
+
+"' ........._
+
+'""""'
+
+Ｂｬｨｾ＠ ｾＧＢ＠
+
+" "•"
+
+In each repetition, any two numbers, say a and b, currently on the blackboard are erased and a new
+number a+ b- 1 is written. What wi II be the number left on the board at the end?
+
+(1) 820
+
+(2) 821
+
+(3) 781
+
+(4) 819
+
+(5) 780
+
+= seed(s(n)), otherwise,
+wheres(n) indicates the sum of digits of n. For example,
+seed(7) = 7, seed(248)= seed(2 + 4 + 8)= seed(14)= seed(1 + 4) = seed(5)= 5 etc.
+How many positive integers n, such that n < 500, wi II have seed(n) = 9?
+(1) 39
+
+(2) 72
+
+(3) 81
+
+(4) 108
+
+(5) 55
+
+10. In a triangle ABc; the lengths of the sides AB and AC equal17.5 em and 9 em respectively. Le
+point on the line segment BC such that 1>0 is perpendicular to BC If 1>0 = 3 em, then what is th
+em) of the circle circum scribing the triangle ABC?
+(1)
+
+17.05
+
+(2) 27.85
+
+(3) 22.45
+
+(4) 32.25
+
+(5) 26.25
+
+11. What are the last two digits of 7"SJos?
+(1) 21
+
+(2) 61
+
+(3)01
+
+(4)41
+
+(5)81
+
+12. If the roots of the equation x'- a) +bx- c =0 are three consecutiv
+
+•
+
+en
+
+what is the smallest possible value of b?
+
+many
+
+5 F and H. Consider points P and Q, on L and inside ABCD, such that the angles APD and
+20•. What is the ratio of the area of ABQCDP to the remaining area inside ABCD?
+
+(2)2+1/3
+
+(3} 1fH</3
+9
+
+l
+
+(4)1+ 43
+
+(5)243-1
+
+17. Three consecutive positive integers are raised to the first, second and third powers respectively and
+then added. The sum so obtained is a perfect square whose square root equals the total of the three
+original integers. Which of the foil owing best describes the minimum, say m, of these three integers?
+(1) ｈｭｾＳ＠
+
+(2) ＴｾｭＶ＠
+
+(3) ｈｭｾＹ＠
+
+(4) ＱＰｾｭＲ＠
+
+(5) ＱＳｾｭＵ＠
+
+1 1
+1 1
+1
+1
+18. Find the sum 1+-+-+ 1+2+1 + ............. + 1 + - - + - 12 22
+20072 20012
+2 3
+
+(1)
+
+ＺｺｯＦＮｾ＠
+
+1
+2007
+
+(2) 2007--
+
+19. Two circles, both of radii 1 em, intersect such that the circumference of each ｯ ｲ
+
+ｾ＠
+
+ugh the
+
+centre of the circle of the other. What is the area (in sq em) of the intersecting regiv
+
+(1).!!- ./3
+
+(2) 2n + ./3
+32
+
+34
+
+(3) 4n- ./3
+32
+
+(4) 411 + ./3
+32
+
+20. Rahim plans to drive from city A to station c, at
+there from B. He must reach Cat least 15 minutes b
+5 00 km south of
+
+A at 8:0 0 am and travels at a
+
+between west and northwest of B, with BC at 6
+A w1th AC at 30 • to AB. The latest t1 me ｢ｹ ｾ＠
+
+(1)6:15 am
+
+(2) 6:30am
+
+21. Cons1 der a nght c1rcular
+
+ｩｾ
+
+oooo w<h ooo of''"
+area (in sq. em) of th cy
+
+ｾ＠
+
+00
+
+ｾ＠
+
+｣ ａｾ
+
+(3)
+
+..!,.]
+ＧＢ＠
+
+der"+
+
+"'
+
+(3)
+
+ｾ＠
+
+ｵｳ＠
+
+ｴｨ･ ｳ ･ ｾ
+"" t
+
+ed
+o
+
+,c
+.:vftJ •
+ｭ＠
+
+per hour, to catch a train arriving
+arrival of the train. The train I eaves B, located
+km per hour. It is known that C is located
+
+so, Cis located between south and southwest of
+must leave A and st1ll catch the tra1n 1s closest to
+
+(4) 7:00am
+
+(5) 7:15am
+
+4 em and he1ght 10 em. A cyh nder 1s to be pi aced 1ns1de the
+
+fho "'"of fho oooo ''"' fho '"''" "'"'blo
+
+(4) ":"
+
+(S) '':"
+
+ｾｉ＠
+
+ＧＢｾ＠
+
+Five horses, Red, White, Grey, Black and Spotted participated in a race. 1>s per the rules of the race, the
+persons betting on the winning horse get four times the bet am aunt and those betting on the horse that
+came in second get thrice the bet am aunt. Moreover, the bet am aunt is returned to those betting on the
+horse that came in third, and the rest Iose the bet amount. Raj u bets Rs. 30 00, Rs. 20 00 Rs. 1000 on Red,
+White and Black horses respectively and ends up with no profit and no loss.
+22. Which of the following cannot be true?
+(1) At least two horses f1n1shed before Spotted
+(2) Red f1n1shed last
+(3) There were three horses between Black and Spotted
+
+r
+
+(S) Grey came In second
+23. Suppose, 1n add1t1on, 1t 1s known that Grey came 1n fourth. Then wh1ch of the ｦ
+
+CJ"'
+ｾ＠
+
+true?
+(1) Spotted came in first
+(2) Red finished last
+
+ｾｦｬｪ＠
+
+((3 )) White came in second
+4 Black came in second
+(S) There was one horse between Black and White
+
+ｾ＠
+
+Ｐｾ＠
+
+•
+
+..
+
+ｾ＠
+
+ｾ＠
+
+cannot be
+
++
+
+Marks (1) if Q can be answered from A alone but not from B alone.
+Marks (2) if Q can be answered from B alone but not from A alone.
+Marks (3) if Q can be answered from A alone as well as from B alone.
+Marks (4) if Q can be answered from A and B together but not from any of them alone.
+Marks (5) if Q cannot be answered even from A and B together.
+In a single elimination tournament, any player is eliminated with a single loss. The tourname
+multiple rounds subject to the foil owing rules:
+(a) If the number of players, say n, in any round is even, then the players aree ro Q
+The pi ayers in each pair play a match against each other and the winner m ov on t
+(b) If the number of pi ayers, say n, in any round is odd, then one of them is
+aut om ati cally m aves on to the next round. The remaining ( n - 1) p3
+pairs. The pi ayers in each pair play a match against each other and
+round. No pi ayer gets more than one bye in the entire ｴｯｵｲｮ｡
+Thus, if n is even, then n/2 players m ave on to the next
+
+ｲｯｵｮ
+
+on to the next round. The process is continued till the ｦｩ ｴｲ
+players. The winner in the final round is the cham pion f ｾ
+24. Q: What is the number of matches played '
+
+ｾ
+
+ＧＱ ｾ＠
+
+,
+
+ｾ ｾ＠
+ｵ＠
+
+·
+
+n/2 pairs.
+ext round.
+bye, that is, he
+
+are.f'ouped into ( n - 1)/2
+n rs moves on to the next
+
+:
+
+､Ｌ＠
+
+then ( n + 1 )/2 pi ayers m ave
+
+1ch obviously is played between two
+ment.
+
+SECTION II
+This section contains 25 questions
+Directions for Questions 26 to 28: Answer the following questions based on the inform at ion given bel ow:
+For admission to various affiliated colleges, a university conducts a written test with four different
+sections, each with a maximum of 50 marks. The following table gives the aggregate as welle.<::tth
+sectional cut-off marks fixed by six different colleges affiliated to the university. A stud..._.......,
+
+Se\:tional Cut-off Marks
+ｓＨｾｃｴｩｏｬ＠
+
+;\
+
+ｓｴｾ｣ｩｯｮ＠
+
+H
+
+42
+
+42
+
+College I
+
+St·ction C
+42
+
+176
+
+45
+
+175
+171
+
+College 3
+College 4
+
+45
+
+43
+
+45
+
+180
+44
+
+College 6
+
+26. Ad1tya d1d not get a call ｾ
+
+･ｶ＠
+
+176
+
+a smgle college. What could be the max1mum aggregate marks
+
+obtained by h1 m?
+(1)181
+
+ｾ
+
+ＲＩＱ＠
+
+3)184
+
+27. Bhama got c
+
+fr
+
+(1)180
+
+)18
+
+(2) 21
+
+(4)196
+
+(5)190
+
+o! ges. What could be the minimum aggregate marks obtained by her?
+(3)196
+
+(4)176
+
+(5)184
+
+(3) 25
+
+(4) 35
+
+(5) 41
+
+The bar chart below shows the revenue received, in mill ion US Dollars (U SD ), from subscribers to a
+particular Internet service. The data covers the period 2003 to 2007 for the United States (US) and Europe.
+The bar chart also shows the estimate revenues from the subscription to this service for the period 2 008 to
+2010.
+1000
+900
+800
+700
+
+.a
+
+Ｎｾ＠
+
+'i;;"
+
+l . . . . . . ｴｾ＠ . . .
+
+600
+500
+400
+
+100
+
+"'
+
+04
+
+03
+
+OS
+
+06
+
+07
+
+.J![. J!l
+
+.il
+
+08
+
+09
+
+Vear
+
+2 00 7 (over 20 06) relative to the growth rate of 2
+(2) 20
+
+(3) 35
+
+( 4) 60
+
+10
+
+ｳｴｬＡ ､ ｾ
+
+29. While the subscnpt1on 1n Europe has been grow1ng
+Europe seems to be dechmng. Wh1 ch of the follow
+ｾ
+
+(1) 17
+
+ｾ｛＠
+i (!
+
+.•.•.•.·..·..•.·.
+
+·r IIiｾＬＡ＠ Ii
+
+!
+
+JJ
+
+0
+
+ﾷＮｬｫｾ［ＬｲＺ＠ I[Ｑ Ｑ Ｎﾷｾ＠
+
+[i.l[m .
+·tli1· · · · · !!
+1ｴｾＮ＠
+
+300
+200
+
+ver
+
+ｳｴ＠
+
+CJ
+
+us
+
+ｾＮ＠
+
+Europe
+
+,
+
+••
+
+CJ"'
+ｳ＠
+
+that of the US, the growth rate 1n
+to the percent change 1n growth rate of
+
+0 4 )?
+
+(. , . , _
+.....
+
+30. The difference between the estf
+·m f
+ed:
+ｾ
+ｴｩｯｮ＠
+in Europe in 2008 and what it would have been if it
+were computed using the percent a
+'
+rate of 20 07 (over 200 6), is closest to :
+
+(1) 50
+
+(2) 80
+
+(3) 20
+
+0
+
+5) 0
+
+31. In 20 03, sixty percef. of subscribers in Europe were men. Given that woman subscribers increase at
+
+the rate of 10 perc
+Ｇ ｾＺｬｩ
+
+annt m and men at the rate of 5 percent per annum, what is the approximate
+ｬｾ
+
+ｬＺｩ＠
+
+ibers between 2003 and 2010 in Europe? The subscription prices are volatile
+
+( 4) 84
+
+(5) 50
+
+...-..... the annual percent change in the gap between subscription revenues in the US and Europe.
+;m,._...,,t he year in which the absolute value of this change is the highest?
+(1) 03-04
+
+(2) 05-06
+
+(3) 06-07
+
+(4) 08-09
+
+(5) 09-10
+
+There are 100 employees in an organization across five departments. The following table gives the
+departem ent -wise distribution of average age, average basic pay and allowances. The gross pay of an
+employee is the sum of his/her basic pay and allowances.
+
+\fumbct- or
+
+lh·pa rtrncnt'
+
+ｾＺｭｰｬｯｹ･ｳ＠
+
+Average ,\vcrag{· Basic
+Age Ｈｙｬｾ｡ｮＩ＠
+
+IIR
+
+!•ay (Rs. )
+
+5
+
+Allowances
+(% of Basic J•a..,
+
+5000
+()()!){)
+
+30
+
+Finance
+
+i ｮ｣ｳｾ＠
+ｂｵｾ＠
+
+6500
+
+42
+
+Deve liJf.}ll'lent
+
+Maimcnancc
+
+J5
+
+iO
+
+a department w1th h1gher average age to ｾ
+
+･ｭ＠
+
+1th lower average age.
+
+1-MJU
+
+Questions below are independent :
+f e£
+33. There was a mutual transfer of
+of one em pi oyee from M ｡ｲｫ･
+ｾ＠
+one year and that of m ｡ｲｫ･
+department?
+
+(1) 30
+
+(2) 35
+
+transfer
+
+a
+
+ｾ
+
+ＨＱＩ ｾ
+
+ｭｰｬｯｹ･ｳ＠
+
+ＩＱＥ＠
+
+-
+
+!''
+
+e between Market1ng and F1nance departments and transfer
+1>s a result, the average age of F1nance department 1ncreased by
+
+ｲｴｭ＠
+
+ent remained the same. What is the new average age of HR
+
+ｾ
+
+•
+
+(4) 45
+
+(5) cannot be determined
+
+person with basic pay of Rs. 8000 from the Marketing department?
+
+(3)13%
+
+(4)15%
+
+(5)17%
+
+(each with a basic pay of Rs. 6000) are transferred from Maintenance department to
+HR department and one person (with a basic pay of Rs. 80 00) was transferred from Marketing department
+to HR department, what will be the percemage change in average basic pay of HR departmem?
+
+(1) 10.5%
+
+(2) 12.5%
+
+(3) 15%
+
+(4) 30%
+
+(5)40%
+
+Abdul, Bikram and Chetan are three professi anal traders who trade in shares of a company XYZ Ltd. Abdul
+follows the strategy of buying at the opening of the day at 10 am and selling the whole Iot at the close of
+the day at 3 pm. Bikram follows the strategy of buying at hourly intervals: 10 am, 11 am, 12 noon, 1 pm
+and 2 pm, and selling the whole lot at the close of the day. Further, he buys an equal number of shares in
+each purchase. Chetan follows a similar pattern as Bikram but his strategy is somewhat different. Chetan's
+total investment am aunt is divided equally among his purchases. The profit or loss made by each investor
+is the difference between the sale value at the close of the day less the investment in purchase. The
+"returri' for each investor is defined as the ratio of the profit or loss to the investment am aunt e
+as a percentage.
+
+36. on a "boom" day the price of xvz Ltd. keeps rising throughout the day and peaks
+day. Which trader got the minimum return on that day?
+(1) Bikram
+
+(2) Chetan
+
+(3) Abdul
+
+(4) Abdul or Chetan
+
+(5) cannot be dG
+
+37. On a day of fluctuating market prices, the share price of XYZ Ltd. ･ ｾ
+the close of the day com pared to the opening value. Which trader got ｴｨ
+
+(1) Bikram
+
+(2) Chetan
+
+(3) Abdul
+
+(4) Bikram or Chetan
+
+38. Which one of the following statements is always true?
+(1) Abdul will not be the one with the minimum retur
+(2) Return for Chetan will be higher than that of Bikr m
+(3) Return for Bikram will be higher than that of e
+(4) Return for Chetan cannot be higher than tha
+Ab
+
+f'l:j-
+
+0
+d
+
+ｭ＠
+
+Q in, i.e., it is higher at
+return on that day?
+
+ot be determined
+
+.t.,
+ｾ＠
+
+ｾ＠
+
+(5) none of the above
+One day, two other traders, ｄ｡ｮ･
+
+ｾ ｮ＠
+
+11
+
+XYZ Ltd. Dane followed a strategy
+
+·
+
+selling the same numbers at2 1 ,
+buying shares using all her m
+for all the money at 1 p and
+b
+
+ｶ･
+
+a
+&
+
+·
+
+oi
+
+tl Abdul, Bikram and Chetan for trading in the shares of
+
+qual numbers of shares at 10 am, 11 am and 12 noon, and
+and 3 pm. Emily, on the other hand, followed the strategy of
+
+0 am and selling all of them at 12 noon and again buying the shares
+selling all of them at the close of the day at 3 pm. At the close of the
+
+ｾ＠
+
+(1) Share price was at its lowest at 2 pm
+(2) Share price was at its lowest at 11 am
+(3) Share price at 1 pm was higher than the share price at 2 pm
+( 4) Share price at 1 pm was higher than the share price at 12 noon
+(5) none of the above
+
+G
+
+ｾ
+
+｡＠
+
+d
+
+ｾｵＮ＠
+ｾｬ
+
+･ ｬ＠
+ｾ＠
+
+(1) 10 am
+
+IJI n..ｾ＠
+
+VV d :> dl. n :>
+
+(2) 11 am
+
+Ｑ
+ｾ
+
+Ｑ
+ｾＺ＾
+
+ＱＮ＠
+
+en
+
+(3) 12 noon
+
+(4) 1 pm
+
+(5) cannot be determined
+
+(i)
+(i i)
+
+There are three houses on each side of the road.
+These six houses are labeled as P, Q, R, S, T and U.
+
+(iii)
+(i v)
+
+The houses are of different col ours, namely, Red, Blue, Green, Orange, Yellow and White.
+The houses are of different heights.
+
+(v)
+
+T, the tall est house, is exact I y opposite to the Red coloured house.
+
+(vi)
+(vii)
+
+The shortest house is exact I y opposite to the Green coloured house.
+U, the Orange coloured house, is located between P and S.
+
+(viii) R, the Yellow coloured house, is exactly opposite toP.
+(ix) Q, the Green coloured house, is exact I y opposite to U.
+
+(x)
+
+P, the White coloured house, is taller than R, but shorter than S and Q.
+
+r
+
+41. What is the colour of the tallest house?
+(1) Red
+
+(2) Blue
+
+(3) Green
+
+(4)Yellow
+
+(S) none of these
+
+CJ
+
+42. What is the colour of the house diagonally opposite to the Yellow col0
+(1) White
+
+(2) Blue
+
+(3) Green
+
+(4) Red
+
+43. Which is the second tallest house?
+(1) p
+
+(2) s
+
+(3)Q
+
+(4) R
+
+(S) none of these
+
+ｾＧＨｪ＠
+
+ｾ＠
+
+st
+
+ｾ＠
+
+In a sports event, six teams (A, B, C, D, E and F) are competing against each other. Matches are scheduled
+in two stages. Each team plays three matches in Stage-1 and two matches in Stage-11. No team plays against
+the same team more than once in the event. No ties are perm it ted in any of them atches. The observations
+after the completion of Stage-I and Stage-II are as given below.
+Stage-1:
+•
+
+One team won all the three matches.
+
+•
+•
+•
+
+Two teams lost all them atches.
+D lost to Abut won against C and F.
+E lost to B but won against C and F.
+
+•
+B Iost at least one match.
+•
+F did not play against the top team of Stage-1.
+Stage-11:
+•
+•
+
+The leader of Stage-llost the next two matches.
+Of the two teams at the bottom after Stage-1, one team wo
+the other Iost both matches.
+
+•
+
+One more team lost both matches 1n Stage-11.
+
+44. The team(s) w1th the most w1ns 1n the event 1s (ar ·
+(l)A
+
+(2)A&C
+
+(l)A D &F
+
+(3)F
+
+(4)E
+
+(3) E & F
+
+f'l::f-
+
+ｾ＠
+&
+
+(4) D, E & F
+
+(S) D & F
+
++
+ｾ＠
+at
+
+es, wh1le
+
+Telecom operators get revenue from transfer of data and voice. Average revenue received from transfer of
+each unit of data is known as ARDT. In the diagram below, the revenue received from data transfer as
+percentage of total revenue received and the ARDT in US Dollars (U SD) are given for various countries .
+
+••
+ｦｊＭｯｩｾｬＧｗｉＺ＠
+
+ｊ｡ｾｮ＠
+
+ＨｬｄＱＳＮＰｾＩ＠
+
+ｻｾＺｬＬＡ［ｴＮｽ＠
+
+•
+
+UK
+
+$Hi
+
+$5
+
+(3)
+
+e ' he same in both countries.
+vent, _ in India is about 2 times that of Singapore
+nue in India is about 4 times that of Singapore
+revenue in Singapore is a bout 2 times that of India
+(S) Total revenue in Singapore is about 4 times that of India
+
+Germany
+
+and
+
+USA
+
+I Ul
+
+I I IUIQ
+
+Ql IU UUUUI o; I Ul
+
+.JYY <;U<;I lo ............ UI I I<; 0.1 IQO. II I
+ｾ＠
+
+U.I.U J
+
+0.1 I<; O.UO.Q I
+
+I o; Y<;l IU<; II I
+
+I I IUIQ
+
+I'"' 0. YY 1'-'<; 0.1 IQO. Ul
+
+,J
+
+YY<;U<;I I
+
+and that the volume of data transfer is the same in both the countries. What is the percentage increase of
+ARDT in India if there is no change in ARDT in Sweden?
+
+(1) 400%
+
+(2) 550%
+
+(3) 800%
+
+(4) 950%
+
+(5) cannot be determined
+
+This section contains 40 questions
+
+Directions for questions 51 to 54: In each question, there are five sentences. Each sentence has a pair of
+words that are itaI ici zed and highlighted. From the italicized and highlighted words, select the most
+appropriate words (A or B) to form correct sentences. The sentences are followed by options that
+indicate the words, which may be selected to correctly com pi ete the set of sentences. From the options
+g1ven, choose the most appropriate one.
+
+51.
+An1ta wore a beaut1ful broach {A}/brooch{B} on the lapel of her Jacket.
+
+coundlfol(A}/counsefoi(B}.
+I waul d like your advke(A}/advise{B} on which job I should choose.
+The last scene provided a climactic(A)/climatic{B) ending to the film.
+Jeans that jiair{A}/ffore{B} at the bottom are in fashion these days.
+(1) BABM
+
+(2) BABAB
+
+(1) BBABA
+
+(2) BBAM
+
+(3) BAMB
+
+(4)ABABA
+
+(5) BABAB
+
+53.
+
+ke+Nay as the train eli mbed the hi II.
+
+(3) BAABB
+
+(4)ABBM
+
+(5) BBBBA
+
+The hockey team caul d not deal with his unsociable{A}/unsociai{B} tendencies.
+
+(1) BABBA
+
+(2) BBABB
+
+(3)BABM
+
+(4)ABBAB
+
+(5)AABBA
+
+CJ
++
+
+usage (i ncl udi ng spelling punctuation and logical consistency). Then, choose the most appropriate
+option.
+
+55.
+A. In 18 49, a poor Bavarian i migrant named Levi Strauss
+B. landed in San Francisco, california,
+C. at the invitation of his brother-in-law David Stern
+D. owner of dry goods business.
+E. Th1s dry goods busmess would later become known as Lev1 Strauss & Company.
+(1) B only
+
+(2) Band C
+
+(3)AandB
+
+(4) A only
+
+(S)A, B andD
+
+56.
+
+CJ
+
+A. In response to the allegations and condemnation pouring in,
+B. Nike implemented comprehensive changes in their labour policy.
+
+C. Perhaps sensing the rising tide of global labour concerns,
+D. from the public waul d become a prominent media issue,
+E. Ni ke sought to be a industry leader in employee relations.
+(1) D and E
+
+(2) D only
+
+(3)Aand E
+
+(4)Aand
+
+ｄｾ
+
+r
+
+.t"'V
+
+57.
+
++
+
+ｾＮＬ＠
+"-/
+
+ｾ＠
+
+､＠
+
+E
+
+ｾ＠
+
+A. Charges and counter charges mean nothing
+B. to the few m i Ilion who have lost their hom
+D. is still unable to reach hundreds wh
+
+re
+
+C
+
+o
+
+ed.
+
+E. The death count have JUSt be::.t..=__
+(1)Aonly
+
+(2)Conly ｾＺｶ
+
+ｾ＠
+
+(4)A,CandD
+
+(S) D only
+
+58.
+to ｭ｡
+B. Because you'd
+
+ﾷ ｾ＠
+
+ｾ＠
+
+r you.
+
+I nett I associate you more with my parents than with me.
+
+C. And yet yo"'"""'-..,
+them.
+
+my cousins in Calcutta, who seem so innocent and obedient when I visited
+
+urious about me in the lea st.
+u did make effort to meet me.
+(2)AandB
+
+(3)AandE
+
+(4) D only
+
+(S)Aand D
+
+Given below each question are five pairs of words. Choose the pair that best com pi etes the sentence.
+59.
+The genocides in Bosnia and Rwanda, apart from being mis-described in the most sinister and
+_ _ _ manner as 'ethnic cleansing', were also blamed, in further hand-washing rhetoric, on
+
+something dark and interior to _ _ _ _ _ and perpetrators alike.
+(1) 1nnovat1ve; commumcator
+(2) enchant1ng; leaders
+
+( 4) ex1gent; expl o1ters
+(5) trag1c; sufferers
+
+(3) d1s1ngenuous; v1ct1ms
+
+contrary, anc1ent astronomers were forced to _____ that certa1n bod1es
+po1nts, wh1ch 1n turn moved 1n c1 rcles about the earth.
+(1) scrut1n1zers; believe
+
+(4) observers; concede
+
+(2) observers; agree
+
+(5) students;
+
+(3) scrut1n1zers; suggest
+
+｣ｯｮ ｾ＠
+
+-=--=--.___endowment; and on ｴｨ･
+
+(1) const1tut1onal; weather
+
+(2) congenital; educat1on
+(3) personal; climate
+
+］ ｾ＠
+ｾ＠
+
+..
+
+"'fJ
+
+1n c1rcles about
+
++
+
+.:'-/
+
+ﾣ :U'two
+ｾ＠
+
+61.
+Every human be1ng, after the fwst few days of h1s hfe, 1
+
+:::' s
+
+ｾ＠
+
+ｭｬ ｾ
+
+ｾ
+
+ｾ＠
+
+factors; on the one hand, there
+
+ere 1s the effect of env1 ronm ent, 1ncl ud1ng
+
+ｾ ｮｯｭＱ｣［＠
+
+;f )
+
+learn1ng
+
+genet1c; pedagogy
+
+(k
+
+62.
+Exhaustion of natural resou
+
+,d
+
+mmd> ｢ｹＧＢ
+
+ood propogoodo ｾ＠
+ｾＧＢｨ＠
+ｾＢＧ＠
+wh'oh ｐｾＧ＠
+<o
+ｦ＠ the 1mpact of sc1ence upon m 1nds su1ted by _ _ _ _ to an earh er kmd
+
+ｾ＠
+
+be on the 1ncreas
+
+ｵｬ ｾ
+
+ruct1 on of 1nd1v1dual 1n1t1 at1ve by governments, control overmen's
+
+'"'I"
+
+"'"""
+
+of world.
+(1) tenet
+
+(2) a
+
+s·
+
+n
+h1 1t1ons
+
+( 4) organs; trad1t1on
+(5) departments; repul s1 on
+
+incorrect or inappropriate.
+63. Run
+
+(1) I must run fast to catch up with him.
+(2) Our team scored a goal against the run of play.
+(3) You can't run over him like that.
+( 4) The newly released book is enjoying a popular run.
+(5) This film is a run-of-the-mill production.
+64. Round
+
+(1) The police fired a round of tear gas shells.
+(2) The shop is located round the corner.
+(3) We took a ride on the merry-go-round.
+( 4) The doctor is on a hospital round.
+(5) I shall proceed further only after you come around to admitting it.
+65.Buckle
+
+(1) .after the long hike our knees were beginning to
+
+｢ｵ｣ｫｬ･Ｎ
+
+(2) The horse suddenly broke into a buckle.
+
+ｾ＠
+
+66.File
+
+ｴｨ･ ｾ
+
+(1) You will find the paper in
+(2) I need to file an ｩｮｳｵｲ｡
+ｾ
+(3)The cadets were marchi i
+(4) File your ｮ｡ ｾＺｩ
+(5) When the ｰ ｾ
+
+Ｑ
+
+ｾ
+
+ｾ
+
+ｾｵ＠
+
+ｮ ＭＫ＠
+
+ey
+
+ﾷ＠
+
+.
+
+ｾ ｲ ｖ＠
+
+s gl file.
+ail polish.
+soldier broke the file.
+
+•
+"-/
+
+CJ
+
+.t "'V
+
+(3) The accused did not buckle under police interr
+ﾷ ｾ＠
+( 4) Sam eti mes, an earthquake can make a brid ,..... ckl .
+(5) People should I earn to buckle up as soon
+
+ｾ＠
+
+ｾ＠
+
++
+
+in the most appropriate way.
+
+67.
+Most people at their first consultation take a furtive look at the surgeon's hands in the hope of
+reassurance. Prospective patients look for delicacy, sensitivity, steadiness, perhaps unblemished pallor.
+On this basis, Henry Perowne loses a number of cases each year. Generally, he knows it's about to
+happen before the patient does: the downward glance repeated, the prepared questions beginning to
+falter, the overemphat1c thanks dun ng the retreat to the door.
+(1) Other people do not commumcate due to thew poor observation.
+
+(2)
+(3) But Perowne h1mself 1s not concerned.
+( 4) But others will take the1r place, he thought.
+(5) These hands are steady enough, but they are large.
+
+68.
+Trade protectionism, disguised as concern for the eli mate, is raisi nl!l..liliw ﾷ ｾ＠
+concerns, powerful industrialized countries are holding out threat of a I
+
+other.
+(3) Jews in India were always tolerant.
+( 4) Rei igious tolerance has always been only a fa9ade and nothing more.
+(5) The pretty pastel streets are, thus, very popular with the tourists.
+
+r
+•
+
+ｾ＠
+
+ｾ＠
+
+ng competitiveness
+n imports of energy·
+
+70.
+Given the cultural and intellectual interconnections, the question of what is 'Western' and what is
+'Eastern' (or Indian) is often hard to decide, and the issue can be discussed only in more dialectical
+terms. The diagnosis of a thought as 'purely Western' or 'purely Indian' can be very illusory.
+(1) Thoughts are not the kind of things that can be easily categorized.
+(2) Though 'accidentalism' and 'orientalism' as dichotomous concepts have found many adherents.
+(3) 'East is East and West is West' has been a discredited notion for a longtime now.
+( 4) Compartm entali zing thoughts is often desirable.
+(5) The origin of a thought is not the kind of thing to which 'purity' happens easily.
+
+CJ
+
+,Jo·
+&'(j
+
+ｾ＠
+
+Ｐｾ＠
+
+•
+
+"-'IIUU;)t:: U It:: Ill U;)l dJ-'J-'1 Ut-JII dlt:: dll;) YYt::l lU t::d'-'11 yut::;)UUIIo
+
+Language is not a cultural artifact that we learn the way we learn to tell time or how the federal
+government works. Instead, it is a distinct piece of the biological makeup of our brains. Language is a
+complex, specialized skill, which develops in the child spontaneously, without conscious effort or formal
+instruction, is deployed without awareness of its underlying I ogi c, is qualitatively the same in every
+individual, and is distinct from more general abilities to process information or behave intelligently. For
+these reasons same cognitive scientists have described language as a psychological faculty, a mental
+organ, a neural system, and a computational module. But I prefer the admittedly quaint term "instinct."
+It conveys the idea that people know how to talk in more or I ess the sense that spiders know ho
+webs. Web-spinning was not invented by same unsung spider genius and does not depend ｯｮ ｬ ｲＺｷ ｾ Ａｬ＠
+the right education or on having an aptitude for architecture or the construction trades. Ra
+r, s
+rs
+spin spider webs because they have spider brains, which give them the urge to spin a
+etence
+to succeed. Although there are differences between webs and words, I will enc
+age
+u to see
+I anguage in this way, for it helps to make sense of the phenomena we wi II explorr r ｾ＠
+
+a
+
+a
+
+ｨ ｾ＠
+
+Thinking of language as an instinct inverts the popular wisdom, especially as it
+passed down in
+the canon of the humanities and social sciences. Language is no more as
+i 'Vntion than is upright
+ear old, we shall see, is a
+posture. It is not a manifestation of a general capacity to use -symbols: t
+graphy, traffic signs, and
+grammatical genius, but is quite incompetent at the visual arts,
+the other staples of the semiotics curriculum. Though language i
+m a ificent ability unique to Homo
+ｾ＠
+' of humans from the domain of
+sapiens among living species, it does not call for ｳ･ｱｵｴｲ
+biology, for a magnificent ability unique to a particular i'
+· _s is far from unique in the animal
+kingdom. Same kinds of bats home in on flying inse
+usi
+pier sonar. Some kinds of migratory
+birds navigate thousands of miles by calibrating t
+o · ons of the constellations against the time of
+day and year. In nature's talent show we are si
+y a e s of prim ate with our own act, a knack for
+ho by modulating the sounds we make when we
+communicating information about who did w. t t
+exhale
+Once you begin to I oak at language
+adaption to communicate ｩｮｦｯｲ
+of thought, and, we shall ｳ･ ｾ｡
+- an organ with "that perf
+Darwin's words(or any language).
+
+ｬｯ
+ﾷ＠
+
+ｾ｜ｊＡ＠
+
+·
+
+ot
+
+·
+
+oreover, seeing I anguage as one of nature's engineering marvels
+ructure and co-a daption which justly excites our admiration, "in
+
+a
+
+·spect for your ordinary Joe and the much-maligned English language
+of language, from the scientist's point of view, is part of our biological
+.,."-iru> that parents teach their chi I dren or sam ethi ng that must be elaborated in
+
+ｾ
+
+ｾ
+
+･＠
+
+said, "Education is an admirable thing, but it is well to remember from time to
+is worth knowing can be taught." A preschooler's tacit knowledge of grammar is
+
+more'.ff't:q ｾ
+
+｣Ｚ ｾ
+
+Ａ ､＠
+
+than the thickest style manual or the most state-of-the-art computer language
+same applies to all healthy hum an beings, even the notorious syntax-fracturing
+
+athlete and the, you know, Iike, inarticulate teenage skateboarder. Finally, since I anguage is
+ｾ
+､ｵ｣ｴ＠
+of a well-engineered bi ol ogi cal instinct, we shall see that it is not nutty barrel of monkeys
+that entertainer-columnists make it out to be.
+71. According to the passage, which of the following does not stem from popular wisdom on language?
+(1) Language is a cultural artifact.
+(2) Language is a cultural invention.
+(3) Language is learnt as we grow.
+( 4) Language is unique to Homo sapiens
+
+72. Which of the following can be used to rep I ace the "spiders know how to spin webs" analogy as used
+by the author?
+(1) A kitten learning to jump over a wall
+(2) Bees collecting nectar
+(3) A donkey carrying a load
+( 4) A horse running a Derby
+(5) A pet dog protecting its owner's property
+
+73. Accordmgto the passage, wh1ch of the follow1ng 1s umque to human bemgs?
+(1) Ability to use symbols while communicating with one another.
+(2) Ability to communicate with each other through voice modulation.
+
+CJ
+u0p!ents
+
+(3) Ability to communicate information to other members of the species.
+(4) Ability to use sound as means of communication.
+(5) All of the above.
+
+74. According to the passage, complexity of language cannot
+
+flj
+
+ch1l dren because
+(1) children 1nSt1nct1vely know language.
+(2) children learn the language on the1r own.
+(3) language 1s not amenable to teachmg.
+
+ｾ＠
+
+( 4) ch1l dren know language better than the1 r tea c
+(5) ch1l dren are born w1th the knowledge of s
+
+r
+cs.
+
+ents.
+
+or at school to
+
+"-'IIUU;)t:: U It:: IIIU;)l dJ-'J-'1 Ut-JII dlt:: dll;) YYt::l lU t::d'-'11 yut::;)UUIIo
+
+When I was little, children were bought two kinds of ice cream, sold from those white wagons with the
+canopies made of silvery metal: either the two-cent cone or the four-cent ice cream pie. The two-cent
+cone was very sma II, in fact it caul d fit comfortably into a child's hand, and it was made by taking the ice
+cream from its container with a special scoop and pi Iing it on the cone. Granny always suggested I eat
+only a part of the cone, then throw away the pointed end, because it had been touched by the vendor's
+
+thing, the biscuit surfaces softening as they became soaked in creamy nectar.
+give here: in theory the pies had been touched only by the machine; in practi
+them against his hand while giving them to us, but it was impossible to ｩ ｾ
+
+･＠
+
+s
+1was fascinated, however, by same my peers, whose parents ba
+two-cent cones. These privileged children advanced proudly with ne c
+
+m
+
+of
+
+their left; and expertly moving their head from side to sid
+r&
+Iiturgy seemed to me so sumptuously en viable, that man
+vain. My elders were inflexible: a four-cent ice, yes; bu
+ot
+
+assuming that in due course the tips of
+mendacious, justification was that a ｢ｯｹ ｾ
+Ｍ e
+
+WI
+
+the.
+
+aminated area.
+
+t a four -cent pie but two
+their right hand and one in
+
+first one, then the other. This
+
+ed to be allowed to eel ebrate it. In
+- nt ones, absolutely no.
+
+es ere discarded. The pathetic, and obviously
+h turning his eyes from one cone to the other was
+
+more in eli ned to stumble over stones, e ,
+acks in the pavement. I dimly sensed that there was
+another secret justification, cruelly p ag · , but I was unable to grasp it.
+
+of! a
+
+Today, citizen and victim
+the thirties was not), I reali
+
+t
+
+r society, a civilization of excess and waste (which the society of
+se dear and now departed elders were right. Two two-cent cones
+
+instead of one at fou cents
+t signify squandering, economically speaking, but symbolically they
+surely did. It was
+· s pr. ise reason, that I yearned for them: because two ice creams suggested
+·sel y why they were denied me: because they I ooked indecent, an insult to
+poverty, a di
+
+;;,llllo;.'l....,.itious privilege, a boast of wealth. Only spoiled chi I dren ate two cones at once,
+
+those chil9il,._m!o in fairy tales were rightly punished, as Pinocchio was when he rejected the skin and
+h
+
+parents who encouraged this weakness, appropriate to Iittle parvenus, were bringing up
+re 1n the fool ish theater of "I'd like to but I can't." They were preparing them to turn up at
+s cheek-in with a fake Gucci bag bought from a street peddler on the beach at Rim ini
+
+Nowadays the mora list risks seeming at odds with morality, in a world where the consumer ci vi li zati on
+now wants even adults to be spoiled, and promises them always something more, from the wristwatch
+in the box of detergent to the bonus bangle sheathed, with the magazine it ace om panies, in a plastic
+envelope. Like the parents of those ambidextrous gluttons I so envied, the consumer ci viii zati on
+pretends to give more, but actually gives, for four cents, what is worth four cents. You wi II throw away
+the old transi star radio to purchase the new one, that boasts an alarm clock as well, but same
+
+not I ast nearly so long as the glorious old Fiat 500, which, even when it broke down, could be started
+again with a kick.
+The morality of the old days made Spartans of us all, while today's morality wants all of us to be
+Sybarites.
+76. Which of the following cannot be inferred from the passage?
+(1) Today's society is more extravagant than the society of the 1930s.
+(2) The act of eating two ice cream cones is akin to a ceremonial process.
+(3) Elders rightly suggested that a boy turning eyes from one cone to the other was more li
+( 4) Despite seeming to promise more, the consumer civilization gives away exactlyO
+worth.
+(5) The consumer civi li zati on attempts to spoil chi I dren and adults alike.
+
+0
+CJ
+
+77. In the passage, the phrase "I ittle parvenus" refers to
+(1) naughty midgets.
+(2) old hags.
+(3) arrogant people.
+( 4) young upstarts.
+
+CJ
+
+'
+
++
+
+ｾ＠
+
+"'v
+
+(5) foolish kids.
+
+(1) it made dietetic sense.
+(2) it suggested intemperance.
+(3) it was more fun.
+
+flj
+
+( 4) it had a visual appeal.
+(5) he was a glutton.
+79. What does the author
+(1) The moralist of ｶ･ ｳ ＾ ｴ･ｲﾷ､｡ｶ
+Ｌ｟ ｬ
+
+bl "r'iclW<Idays the moralist risks seeming at odds with morality"?
+ｾ ﾷ･｣ｲｭ＠
+immoral today.
+
+1+s changed over the years.
+ｾＬｪ
+
+ｏＧｃｩ
+
+ｾ
+
+＠ｾ with immorality have gone up.
+of morality is fast becoming popular.
+
+to the author, the justification for refusal to let him eat two cones was pi ausibly
+
+(3) dialectic.
+( 4) diatonic.
+(5) diastolic.
+
+"-'IIUU;)t:: U It:: IIIU;)l dJ-'J-'1 Ut-JII dlt:: dll;) YYt::l lU t::d'-'11 yut::;)UUIIo
+
+A remarkable aspect of art of the present century is the range of concepts and ideologies which it
+embodies. It is aim ost tempting to see a pattern emerging within the art field - or alternative! y imposed
+upon it a posteriori - similar to that which exists under the umbrella of science where the general term
+covers a whole range of separate, though interconnecting activities. Any par allelism is however- in this
+instance at least - misleading. A scientific disci pi ine develops system ati call y once its bare tenets have
+been established, named and categorized as conventions. Many of the concepts of modern art, by
+
+a'fi""J!
+
+contrast, have resulted from the aim ost accidental meetings of groups of talented individuals
+times and certain places. The ideas generated by these chance meetings had twofold conc."""''"
+Firstly, a corpus of work waul d be produced which, in great part, rem ains as a concrete r
+events. Secondly, the ideas waul d them selves be disseminated through many ､ｩ ｾ＠
+communication - seeds that often bore fruit in contexts far removed from ta ·
+movements were exclusively concerned with innovation. Surrealism, for instan
+clai
+
+kind of insight which can be present in the art of any period. This claim has bee
+that a sixteenth century painting by Spranger or a mysterious photogri ! t ｾ＠
+
+fJ.
+
+discussed in surrealist terms. Briefly, then, the concepts of modern
+fundamentally different) kinds and resulted from the exposures
+to the more complex phenomena of the twentieth century, i I
+the thought and products of earlier centuries. Different gr p
+
+"
+
+rd
+
+he
+
+el s of
+ra · n. Not all
+o embody a
+
+ally accepted so
+can I egitim at ely be
+
+re f many different (often
+""rs, sculptors and thinkers
+
+o ever increasing knowledge of
+a sts would collaborate in trying to
+
+make sense of rapidly changing world of visual and ｳｰｩ
+
+ｾ ＠ﾷ
+I e er. nee. We should hardly be surprised if
+no one group succeeded completely, but achiev e < through relative, have been considerable.
+Landmarks have been established - concrete st me '
+osition which give a pattern to a situation
+which could easily have degenerated into
+al
+os. Beyond this, new language tools have been
+created for those who follow - seml ] i ems wh1 ch can prov1de a spn ngboard for further
+explorations.
+The cod1fy1ng of art 1s often
+
+｣ｮｴＱ ｾ＠
+
+y one can understand that art1 sts are wary of be1ng pigeon-
+
+holed smce they are apt tar at mselves as 1nd1 v1 duals- somet1m es w1th good reason. The not1on
+of self-express1on, howeve
+o e carnes qu1te the we1ght 1t once d1d; obJectiVIty has 1ts defenders.
+There 1s good reason
+st
+
+acce
+sｾ
+
+1de as cod1f1ed by art1sts and cnt1 cs, over the past s1 xty years or so, as
+ｮ､･ｰｴ＠
+
+existence - an independence which is not without its own
+portant here. As an art movement slips into temporal perspective, it ceases
+
+- becoming, rather, a fossil. This is not to say it becomes useless or uninteresting
+>'\ili'"ollacan reconstruct the life of a prehistoric en vi ronm ent from the messages codified into
+the ｳｴｬ
+
+ｾ
+
+ｦ＠
+
+fossil, so can an artist decipher whole webs of intellectual and creative possibility from
+
+tructure of a 'dead' art movement. The artist can match the creative patterns crystallized
+ructure against the potentials and possibilities of his own tim e. AS T.S Eliot observed, no one
+nythi ng from scratch; however consciously you may try to Iive in the present, you are still
+involved with a nexus of behaviour patterns bequeathed from the past. The original and creative person
+is not sam eone who ignores these patterns, but someone who is able to translate and develop them so
+that they confirm more exactly to his- and our- present needs.
+
+(2)the dissemination of ideas through the state and its organizations.
+(3)accidental interactions among people blessed with creative muse.
+( 4) patronage by the rich and powerful that supported art.
+(5) systematic investigation, codification and conventions.
+82. In the passage, the word 'fossil' can be interpreted as
+(1) an art movement that has ceased to remain interesting or useful.
+
+e
+r
+
+(2)an analogy from the physical world to indicate a historic art movement.
+
+(3)an analogy from the physical world to indicate the barrenness of artistic creations in th
+
+( 4) an embedded codification of pre-historic life.
+(5) an analogy from the physical world to indicate the passing of an era associated wit an a
+
+ｾ＠
+
+movement.
+
+ｾ
+
+83. In the passage, which of the following similarities between science and art
+
+ｾ＠
+
+conclusions?
+
+..
+
++
+
+｡､＠
+
+to erroneous
+
+(l)Both, in general, include a gamut of distinct but ｩｮｴ･ｲ｣ｯ
+ｾ ｮ＠
+ｾ＠
+(2)Both have movements not necessarily concerned with innov
+n.
+(3)Both depend on collaborations between talented indivil l j
+( 4) Both involve abstract thought and di ssem inati on ｯ ｾ
+(5) Both reflect com pi ex priorities of them odern worl ｾ＠
+84. The range of concepts and ideologies emb
+(l)the existence of movements such as surr
+
+in
+
+ｦＮ
+
+ﾷ＠
+
+art of the twentieth century is explained by
+
+(2)1andmarks which give a pattern tot
+
+only thrive in a 'greenhouse' insulated from the past biases.
+s' and 'original thinking' interpret and develop on past thoughts to suit contemporary
+
+"-'IIUU;)t:: U It:: IIIU;)l dJ-'J-'1 Ut-JII dlt:: dll;) YYt::l lU t::d'-'11 yut::;)UUIIo
+
+To summarize the Classic Maya collapse, we can tentatively identify five strands. I acknowledge,
+however, that Maya archaeologists still disagree vigorously among themselves-in part, because the
+different strands evidently varied in importance among different parts of the Maya realm; because
+detailed archaeological studies are available for only same Maya sites; and because it remains puzzling
+why most of the Maya heartI and remained nearly empty of population and failed to recover after the
+collapse and after re-growth of forests.
+With those caveats, it appears to me that one strand consisted of population growth o
+available resources: a dilemma similar to the one foreseen by Thomas Malthus in 1798 and
+out today in Rwanda (Chapter 10), Haiti (Chapter 11), and elsewhere. 1>s the arch o
+Webster succinctly puts it, "Too many farmers grew too many crops on too much
+Compounding that mismatch between population and resources was the second
+deforestation and hill side erosion, which caused a decrease in the amount of us
+when more rather than less farm I and was needed, and possibly exacerbate by
+drought resulting from deforestation, by soil nutrient depletion and other soi I p
+struggle to prevent bracken ferns from overrunning the fields.
+
++
+
+The third strand consisted of increased fighting, as more and mo pea
+ght over fewer resources.
+Ｎ＠ 1 tis
+t surprising when one reflects
+Maya warfare, already endemic, peaked just before the ｣ｯｬｩ ｾ
+o an area smaller than the state
+that at I east 5, 00 0, 00 0 people, perhaps many more, were
+of Colorado (1 04,0 00 square miles). That warfare ｷ ｾ＠
+eased further the amount of I and
+available for agriculture, by creating no-m an's lands
+ee
+ncipalities where it was now unsafe to
+farm. Bringing matters to a head was the strand of
+t
+ange. The drought at the time of the Classic
+collapse was not the first drought that the M a
+ad
+' through, but it was the most severe. tit the
+time of previous droughts, there were still u
+a b1
+parts of the Maya Ia ndscape, and people at a site
+oving to another site. However, by the time of the
+affected by drought could save them ｳ ｾ＠
+Classic collapse the landscape was now II
+as no useful unoccupied land in the vicinity on which
+to begin anew, and the who I e po5
+ul ion: u not be accommodated in the few areas that continued to
+have reliable water supplies.
+1>s our fifth strand, we ha. . Q f ln er why the kings and nobles failed to recognize and solve these
+ｾ
+ｩｮｧ＠
+their society. Their attention was evidently focused on their
+seemingly obvious ｰｲｯ｢ｬ･ｭ
+short -term concerns
+enricbi ng them selves, waging wars, erecting monuments, competing with each
+other, and extra
+1 ugfrfood from the peasants to support all those activities. Like most leaders
+throughout h r
+, , the Maya kings and nobles did not heed long-term problems, insofar as they
+II return to this theme in Chapter 14.
+perceived he
+
+w sti II have same other past societies to consider in this book before we switch our
+to e modern world, we must already be struck by some parallels between the Maya and the
+ies discussed in Chapters 2-4. As on Easter Island, Mangareva, and among the Anasazi, Maya
+• <it:tnm ental and population problems led to increasing warfare and civil strife. As on Easter Island and
+co Canyon, Maya peak population numbers were followed swift I y by political and social coli apse.
+Para II eli ng the eventual extension of agriculture from Easter Island's coastal I owlands to its uplands, and
+from the Mimbres floodplain to the hills, COpan's inhabitants also expanded from the floodplain to the
+more fragile hill slopes, leaving them with a larger population to feed when the agricultural boom in the
+hills went bust. Like Easter Island chiefs erecting ever larger statues, eventually crowned by pukao, and
+Iike Anasazi elite treating them selves to necklaces of 2, 00 0 turquoise beads, Maya kings sought to outdo
+each other with more and more impressive tempi es, covered with thicker and thicker pi asterreminiscent in turn of the extravagant conspicuous
+
+consumption by modern American CEOs. The passivity of Easter chiefs and Maya kings in the face of the
+real big threats to their societies completes our list of disquieting parallels.
+86. According to the passage, which of the following best represents the factor that has been cited by
+the author in the context of Rwanda and Haiti?
+
+(1) Various ethnic groups competing for land and other resources
+(2) Various ethnic groups competing for limited land resources
+(3) Various ethnic groups fighting wit each other
+( 4) Various ethnic groups competing for political power
+(5) Various ethnic groups fighting for their identity
+
+CJ
+
+87. By an anthropogenic drought, the author means
+(1) A drought caused by lack of rains.
+(2) A drought caused due to deforestation
+
+(3) A drought caused by failure to prevent bracken ferns from
+
+ｯｶ･ ｵｾｬ
+
+ｾＮＬ＠
+ｩ･ｬ､ｳＮ＠
+
++
+
+( 4) A drought caused by actions of hum an beings.
+
+ｾ＠
+
+(5) A drought caused by eli mate changes.
+88. According to the passage, the drought at the time
+
+to the droughts earlier because
+(1)The Maya kings continue to be extravagant
+§
+o
+ｾ＠ l a
+(2) It happened at the time of ｣ｯｬ｡ｰｳ･
+(3) It happened when the Maya popula n
+
+ｾ＠
+
+ｾ＠
+
+;u:;se
+
+had a different impact compared
+
+com on people were suffering.
+<hip • ong Mayas.
+upied all available land suited for agriculture.
+
+w ar: m g M ayans.
+( 4) It was foil owed by interneci na
+(5) Irreversi bl e environmental d
+·
+d to this drought.
+89. According to the autho. a #t ifficult to explain the reasons for Maya collapse?
+
+(1) COpan inhabitan
+
+､･ｾ ｾ＠
+
+(2)
+
+records of that period.
+
+tat• n and hillside erosion have wiped out all traces of the Maya kingdom.
+
+(3)
+( 4)
+
+Mayas do not provide any consistent evidence.
+si ble to ascertain which of the factors best explains as to why theM aya
+llapsed.
+
+Ｑ Ｂ｜ＧＺｾ＠
+
+factor has not been cited as one of the factors causing the collapse of Maya society?
+vi ronm ental degradation due to excess population
+5oci al collapse due to excess population
+Increased warfare among Maya people
+dim ate change
+Obsession of Maya population with their own short -term concerns.
+
+
